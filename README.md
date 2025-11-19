@@ -87,27 +87,33 @@ All statistical analysis and visualizations were generated using **Pandas + Seab
 
 #### Statistical View
 
+<img width="1341" height="664" alt="stat" src="https://github.com/user-attachments/assets/f297c369-9f2d-4b81-86bf-726d8bda01ed" />
 
 
 #### Variable Details
 
+<img width="1023" height="629" alt="Variable Details" src="https://github.com/user-attachments/assets/b5df5139-d674-4234-9221-89106cfdf9dd" />
 
 
 #### Histogram Plot
 
+<img width="1384" height="884" alt="hist" src="https://github.com/user-attachments/assets/0630d489-7ed1-4b6b-9590-31a60372354f" />
 
 
 #### KDE Plot
 
+<img width="1386" height="884" alt="kde" src="https://github.com/user-attachments/assets/1833d7f6-009d-4edb-b4c4-fac10a4bd2b3" />
 
 
 #### Exploring Numeric and Categorical Data
 
+<img width="1428" height="1388" alt="numbericandcat" src="https://github.com/user-attachments/assets/24c607a1-82c4-4030-816b-0f6f5805e787" />
 
 
 #### Continuous Features vs Happiness Rate
 
-#### 
+<img width="1280" height="2094" alt="catvstar" src="https://github.com/user-attachments/assets/b10a2715-a4f9-4323-b28b-1592228c96ca" />
+
 
 ## 📌 Features
 
@@ -136,3 +142,8 @@ All statistical analysis and visualizations were generated using **Pandas + Seab
   - **Icons:** Lucide React
   
   - **Python:** Pandas, Numpy, Seaborn, Matplot, Stat
+
+    ## 🎥 Live View
+
+    
+    
